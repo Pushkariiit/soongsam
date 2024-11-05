@@ -1,0 +1,9 @@
+class Solution {
+public:
+    int minTimeToReach(vector<vector<int>>& moveTime) {
+        int n = moveTime.size();
+        int m = moveTime[0].size();
+
+        priority_queue<pair<pair<int,int>>,vector<pair<pair<int,int>>,greater<pair<
+    }
+};
